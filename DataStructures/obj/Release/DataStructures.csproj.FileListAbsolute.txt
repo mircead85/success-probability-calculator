@@ -1,0 +1,4 @@
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\bin\Release\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\bin\Release\DataStructures.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\obj\Release\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\obj\Release\DataStructures.pdb

@@ -1,0 +1,5 @@
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\bin\Debug\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\bin\Debug\DataStructures.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\obj\Debug\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\obj\Debug\DataStructures.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
