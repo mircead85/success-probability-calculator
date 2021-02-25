@@ -1,0 +1,8 @@
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\bin\Release\ResourceBasedSuccessGames.dll.config
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\bin\Release\ResourceBasedSuccessGames.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\bin\Release\ResourceBasedSuccessGames.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\bin\Release\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\bin\Release\DataStructures.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\obj\Release\ResourceBasedSuccessGames.csprojResolveAssemblyReference.cache
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\obj\Release\ResourceBasedSuccessGames.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\ResourceBasedSuccessGames\obj\Release\ResourceBasedSuccessGames.pdb

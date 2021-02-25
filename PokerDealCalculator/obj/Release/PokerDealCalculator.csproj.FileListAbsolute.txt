@@ -1,0 +1,8 @@
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\bin\Release\PokerDealCalculator.exe.config
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\bin\Release\PokerDealCalculator.exe
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\bin\Release\PokerDealCalculator.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\bin\Release\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\bin\Release\DataStructures.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\obj\Release\PokerDealCalculator.exe
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\obj\Release\PokerDealCalculator.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\PokerDealCalculator\obj\Release\PokerDealCalculator.csprojResolveAssemblyReference.cache
