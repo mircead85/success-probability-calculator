@@ -1,0 +1,14 @@
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\BankrollManagementCalculator.exe.config
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.csprojResolveAssemblyReference.cache
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.FormMain.resources
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.Properties.Resources.resources
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.csproj.GenerateResource.Cache
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\BankrollManagementCalculator.exe
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\BankrollManagementCalculator.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\DataStructures.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\DataStructures.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.exe
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\ResourceBasedSuccessGames.dll
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\bin\Debug\ResourceBasedSuccessGames.pdb
+G:\My Documents\Work\Scientific Research\ResearchProjects\BankrollManagementCalculator\obj\Debug\BankrollManagementCalculator.aboutBox.resources
