@@ -60,23 +60,29 @@ namespace DataStructures
         {
             get
             {
-                var llNode = (ILinkedListNode<KeyValuePair<TKey,TValue>>)keyToLLnode[key];
+                var llNode = keyToLLnode[key] as ILinkedListNode<KeyValuePair<TKey,TValue>>;
                 if (llNode == null)
                     throw new ArgumentOutOfRangeException("Specified key is not in LRU cache.");
+                    
+                cacheContent.RemoveFromList(llNode);
+                cacheContent.InsertAtHead(llNode);
+                
                 return llNode.Value.Value;
             }
             set
             {
-                var llNode = (ILinkedListNode<KeyValuePair<TKey,TValue>>)keyToLLnode[key];
+                var llNode = keyToLLnode[key] as ILinkedListNode<KeyValuePair<TKey,TValue>>;
                 if (llNode == null)
                 {
-                    llNode = cacheContent.InsertAtHead(new KeyValuePair<TKey, TValue>(key, value));
-                    keyToLLnode[key] = llNode;
                     if (cacheContent.Count > _MaxSize)
                         RemoveLRUElement();
+                    llNode = cacheContent.InsertAtHead(new KeyValuePair<TKey, TValue>(key, value));
+                    keyToLLnode[key] = llNode;
                 }
                 else
                 {
+                    cacheContent.RemoveFromList(llNode);
+                    cacheContent.InsertAtHead(llNode);
                     llNode.Value = new KeyValuePair<TKey, TValue>(key, value);
                 }
             }
