@@ -1,2 +1,5 @@
 # success-probability-calculator
 This is basically a finite-step Markov Decision Process solver. Since it's immediate application is in Poker Bankroll management it is such themed. Naturally it is applicable to any immediate-return financial investment. In this version (1.5) only two kinds of outcomes are permitted per gamble: win or lose. More spread out gambles will be permitted in version 2.0. This calculator allows you to compute to chances of going bankrupt if you are playing poker at different stakes with different ROIs for a specified time period. You can also configure mandatory periodic expenses paid from the bankroll (such as cost of living). I am considering supporting more complex expenses structures (like spending windfall profits) depending on interest.
+
+# license
+This repository contains Intellectual Property belonging to Mircea Digulescu. Your downloading or elsehow accessing of it requires and implies acceptance of the General Digulescian License (GDL), available here: www.matsoft.ro/upload/General_Digulescian_License_GDL.txt.
